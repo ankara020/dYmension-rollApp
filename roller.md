@@ -29,7 +29,7 @@ roller config init --interactive
 > Sonra size verilen çıktıda `3 adres` olacak `2 tanesi dym` adresi `1 tanesi avail veya celestia` olacak, bunlar içinde `faucetten` token alın.
 ```console
 # Bu komuttan sonra has been successfully  çıktısı alacaksınız.
-roller register
+roller tx register
 ```
 ```console
 # Çalıştıralım
